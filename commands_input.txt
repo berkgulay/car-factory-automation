@@ -1,0 +1,22 @@
+AddDept 3 Frame 3
+AddDept 3 Paint 4
+AddDept 2 Engine 3
+AddDept 3 Electronics 3
+AddDept 3 Indoor 2
+AddDept 2 Test 2
+PrintFactory
+Produce 1 Golf G234
+Produce 2 Touran T174
+Produce 3 Jetta J041
+Produce 4 Scirocco S541
+Produce 5 Passat P862
+Produce 6 Golf G322
+Produce 8 Jetta J051
+Produce 9 Passat P455
+Produce 11 Golf G922
+Produce 12 Scirroco S323
+Produce 14 Touran T876
+Produce 16 Jetta J731
+Report 22 Car G922
+Report 25 Cars
+Report 25 Departments
