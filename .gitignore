@@ -1,3 +1,11 @@
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
 # Object files
 *.o
 *.ko
